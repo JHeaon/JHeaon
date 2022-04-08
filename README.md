@@ -34,7 +34,7 @@ Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)
 
 ## 🏆 Cards 🏆
 <br>
-<div align="left">
+<div>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kr_heaon)](https://solved.ac/kr_heaon)
