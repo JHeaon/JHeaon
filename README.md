@@ -38,7 +38,7 @@ Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kr_heaon)](https://solved.ac/kr_heaon)
-<img align="right" src="http://mazandi.herokuapp.com/api?handle=kr_heaon&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=kr_heaon&theme=warm"/>
 
 
 </div>
