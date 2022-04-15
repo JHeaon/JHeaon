@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Soft&&&color=F4BBBB&height=200&section=header&text=HI%20I`m%20Heaon&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Soft&&&color=F4BBBB&height=200&section=header&text=HI😀%20I`m%20Heaon✌️&fontSize=30)
 
 
 ## 🧸 Me 🧸
