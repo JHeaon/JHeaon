@@ -28,7 +28,8 @@ Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)
 ## 📁 Study Note 📁
 
 [BOJ](https://github.com/JHeaon/Beakjoon) : BOJ_solution_code<br>
-[Backend](https://github.com/JHeaon/Backend_study) : Backend_Study
+[Backend](https://github.com/JHeaon/Backend_study) : Backend_Study<br>
+[Python](https://github.com/JHeaon/Python_programing) : Python_Programing_Stduy
 
 <br>
 
