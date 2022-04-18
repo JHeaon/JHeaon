@@ -29,7 +29,7 @@ Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)
 
 [BOJ](https://github.com/JHeaon/Beakjoon) : BOJ_solution_code<br>
 [Backend](https://github.com/JHeaon/Backend_study) : Backend_Study<br>
-[Python](https://github.com/JHeaon/Python_programing) : Python_Programing_Stduy
+[Python](https://github.com/JHeaon/Python_programing) : Python_Programing_Study
 
 <br>
 
