@@ -32,6 +32,12 @@ Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)
 
 <br>
 
+## 🚗 Mini_Project 🚗
+[]() : None<br>
+<br>
+
+<br>
+
 ## 📱 Project 📱
 []() : None<br>
 <br>
