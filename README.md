@@ -3,11 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&&&color=F4BBBB&height=200&section=header&text=HI😀%20I`m%20Heaon✌️&fontSize=30)
 
 
-### <p style="font-weight:bold">✌️ Hi I`m JHeaon ✌️</p> 
+### <p style="font-weight:bold"> ✌️ Hi I`m JHeaon ✌️ </p> 
 
 Naver : [Blog](https://blog.naver.com/j3heawon)<br>
 
-### <p style="font-weight:bold">🛠️ Tech Stack 🛠️</p>
+### <p style="font-weight:bold"> 🛠️ Tech Stack 🛠️ </p>
 
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
@@ -19,7 +19,7 @@ Naver : [Blog](https://blog.naver.com/j3heawon)<br>
   
 <br>
 
-### <p style="font-weight:bold">📃 BOJ / Solved.ac 📃</p>
+### <p style="font-weight:bold"> 📃 BOJ / Solved.ac 📃 </p>
 
 BOJ: [KR_Heaon](https://www.acmicpc.net/user/kR_heaon)<br>
 Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)<br>
@@ -27,7 +27,7 @@ Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)<br>
 <br>
 
 
-### <p style="font-weight:bold">📁 Study Note 📁</p>
+### <p style="font-weight:bold"> 📁 Study Note 📁 </p>
 
 [BOJ](https://github.com/JHeaon/Beakjoon) : BOJ_solution_code<br>
 [Backend](https://github.com/JHeaon/Backend_study) : Backend_Study<br>
@@ -35,18 +35,18 @@ Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)<br>
 
 <br>
 
-### <p style="font-weight:bold">📱 Mini_Project 📱</p>
+### <p style="font-weight:bold"> 📱 Mini_Project 📱 </p>
 []() : None<br>
 
 <br>
 
-### <p style="font-weight:bold">📱 Project 📱</p>
+### <p style="font-weight:bold"> 📱 Project 📱 </p>
 []() : None<br>
 
 <br>
 
 
-### <p style="font-weight:bold">🏆 Cards 🏆</p>
+### <p style="font-weight:bold"> 🏆 Cards 🏆 </p>
 
 
 
