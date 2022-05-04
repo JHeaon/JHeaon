@@ -4,11 +4,13 @@
 
 
 ## 🧸 Me 🧸
+
 [Naver_Blog](https://blog.naver.com/j3heawon)
 
 <br>
 
 ## 🛠 Tech Stack 🛠
+
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -23,7 +25,9 @@
 BOJ: [KR_Heaon](https://www.acmicpc.net/user/kR_heaon)<br>
 Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)
 
+
 <br>
+
 
 ## 📁 Study Note 📁
 
@@ -31,15 +35,20 @@ Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)
 [Backend](https://github.com/JHeaon/Backend_study) : Backend_Study<br>
 [Python](https://github.com/JHeaon/Python_programing) : Python_Programing_Study
 
+
 <br>
+
 
 ## 📱 Project 📱
 []() : None<br>
 <br>
 
 
+
 ## 🏆 Cards 🏆
 <br>
+
+
 <div>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kr_heaon)](https://solved.ac/kr_heaon)
@@ -51,6 +60,8 @@ Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jheaon)](https://github.com/Jheaon)
 
 ## ✏️ Using Language ✏️
+
+
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jheaon&layout=compact&theme=스타일)
