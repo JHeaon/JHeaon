@@ -47,10 +47,8 @@ Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)<br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kr_heaon)](https://solved.ac/kr_heaon)
 <img src="http://mazandi.herokuapp.com/api?handle=kr_heaon&theme=warm"/>
 
-
-</div>
-
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jheaon)](https://github.com/Jheaon)
+ </div>
 
 ### ✏️ Using Language ✏️<br><br>
 
