@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&&&color=F4BBBB&height=200&section=header&text=HI😀%20I`m%20Heaon✌️&fontSize=30)
 
 
-### <p style="font-weight:bold">✌️ Hi I` JHeaon ✌️</p> 
+### <p style="font-weight:bold">✌️ Hi I`m JHeaon ✌️</p> 
 
 Naver : [Blog](https://blog.naver.com/j3heawon)
 
