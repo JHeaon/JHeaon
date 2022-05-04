@@ -3,13 +3,13 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&&&color=F4BBBB&height=200&section=header&text=HI😀%20I`m%20Heaon✌️&fontSize=30)
 
 
-## ✌️ Me ✌️ 
+### ✌️ Me ✌️ 
 
-Naver : [Blog](https://blog.naver.com/j3heawon)<br>
+Naver : [Blog](https://blog.naver.com/j3heawon)
 
 <br>
 
-## 🛠️ Tech Stack 🛠️
+### 🛠️ Tech Stack 🛠️
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> 
@@ -20,7 +20,8 @@ Naver : [Blog](https://blog.naver.com/j3heawon)<br>
 
 <br>
 
-## 📃 BOJ / Solved.ac 📃
+
+### 📃 BOJ / Solved.ac 📃
 
 BOJ: [KR_Heaon](https://www.acmicpc.net/user/kR_heaon)<br>
 Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)
@@ -29,7 +30,7 @@ Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)
 <br>
 
 
-## 📁 Study Note 📁
+### 📁 Study Note 📁
 
 [BOJ](https://github.com/JHeaon/Beakjoon) : BOJ_solution_code<br>
 [Backend](https://github.com/JHeaon/Backend_study) : Backend_Study<br>
@@ -39,17 +40,17 @@ Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)
 <br>
 
 
-## 📱 Mini_Project 📱
+### 📱 Mini_Project 📱
 []() : None
 
 <br>
 
-## 📱 Project 📱
+### 📱 Project 📱
 []() : None<br>
 
 
 
-## 🏆 Cards 🏆
+### 🏆 Cards 🏆
 
 
 <div>
@@ -62,7 +63,7 @@ Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jheaon)](https://github.com/Jheaon)
 
-## ✏️ Using Language ✏️
+### ✏️ Using Language ✏️
 
 
 <br>
