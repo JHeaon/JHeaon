@@ -3,9 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&&&color=F4BBBB&height=200&section=header&text=HI😀%20I`m%20Heaon✌️&fontSize=30)
 
 
-## 🧸 Me 🧸
+## ✌️ Me ✌️ 
 
-[Naver_Blog](https://blog.naver.com/j3heawon)
+Naver : [Blog](https://blog.naver.com/j3heawon)<br>
 
 <br>
 
@@ -40,7 +40,7 @@ Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)
 
 
 ## 📱 Mini_Project 📱
-[]() : None<br>
+[]() : None
 
 <br>
 
