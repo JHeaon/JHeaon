@@ -1,4 +1,4 @@
-<div style="font-weight:bold">
+<div style="font-weight:bold" align = "center">
 
 ![header](https://capsule-render.vercel.app/api?type=Soft&&&color=F4BBBB&height=200&section=header&text=HI😀%20I`m%20Heaon✌️&fontSize=30)
 
@@ -17,22 +17,25 @@ Naver : [Blog](https://blog.naver.com/j3heawon)<br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"><br>
   
-<br>
 
 ### <p style="font-weight:bold"> 📃 BOJ / Solved.ac 📃 </p>
+  
 
 BOJ: [KR_Heaon](https://www.acmicpc.net/user/kR_heaon)<br>
 Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)<br>
 
+  
 <br>
 
 
 ### <p style="font-weight:bold"> 📁 Study Note 📁 </p>
 
+  
 [BOJ](https://github.com/JHeaon/Beakjoon) : BOJ_solution_code<br>
 [Backend](https://github.com/JHeaon/Backend_study) : Backend_Study<br>
 [Python](https://github.com/JHeaon/Python_programing) : Python_Programing_Study<br>
 
+  
 <br>
 
 ### <p style="font-weight:bold"> 📱 Mini_Project 📱 </p>
