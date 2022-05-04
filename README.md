@@ -11,6 +11,7 @@
 ## 🛠 Tech Stack 🛠
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
@@ -32,12 +33,6 @@ Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)
 
 <br>
 
-## 🚗 Mini_Project 🚗
-[]() : None<br>
-
-<br>
-
-
 ## 📱 Project 📱
 []() : None<br>
 <br>
@@ -55,15 +50,10 @@ Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jheaon)](https://github.com/Jheaon)
 
-
-
-
 ## ✏️ Using Language ✏️
-
-
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jheaon&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jheaon&layout=compact&theme=스타일)
 
 
 </div>
