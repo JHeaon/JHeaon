@@ -1,13 +1,16 @@
-<div align="center">
+<div style="font-weight:bold" align ="center">
 
 ![header](https://capsule-render.vercel.app/api?type=Soft&&&color=F4BBBB&height=200&section=header&text=HI😀%20I`m%20Heaon✌️&fontSize=30)
 
 
-### ✌️ Me ✌️ 
+### <p style="font-weight:bold">✌️ Hi I`M JHeaon ✌️</p> 
 
-Naver : [Blog](https://blog.naver.com/j3heawon)<br>
+Naver : [Blog](https://blog.naver.com/j3heawon)
 
-### 🛠️ Tech Stack 🛠️
+<br>
+
+### <p style="font-weight:bold">🛠️ Tech Stack 🛠️</p>
+
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> 
@@ -18,39 +21,39 @@ Naver : [Blog](https://blog.naver.com/j3heawon)<br>
 
 <br>
 
-
-### 📃 BOJ / Solved.ac 📃
+### <p style="font-weight:bold">📃 BOJ / Solved.ac 📃</p>
 
 BOJ: [KR_Heaon](https://www.acmicpc.net/user/kR_heaon)<br>
 Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)<br>
 
+<br>
 
-### 📁 Study Note 📁
+
+### <p style="font-weight:bold">📁 Study Note 📁</p>
 
 [BOJ](https://github.com/JHeaon/Beakjoon) : BOJ_solution_code<br>
 [Backend](https://github.com/JHeaon/Backend_study) : Backend_Study<br>
 [Python](https://github.com/JHeaon/Python_programing) : Python_Programing_Study<br>
 
+<br>
 
-### 📱 Mini_Project 📱
+### <p style="font-weight:bold">📱 Mini_Project 📱</p>
 []() : None<br>
 
-### 📱 Project 📱
+<br>
+
+### <p style="font-weight:bold">📱 Project 📱</p>
 []() : None<br>
 
+<br>
 
-### 🏆 Cards 🏆
+
+### <p style="font-weight:bold">🏆 Cards 🏆</p>
 
 
-<div>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kr_heaon)](https://solved.ac/kr_heaon)
 <img src="http://mazandi.herokuapp.com/api?handle=kr_heaon&theme=warm"/>
-
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jheaon)](https://github.com/Jheaon)
- </div>
-
-### ✏️ Using Language ✏️<br><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jheaon&layout=compact&theme=스타일)
 
