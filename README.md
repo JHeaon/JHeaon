@@ -1,4 +1,4 @@
-<div style="font-weight:bold" align ="center">
+<div style="font-weight:bold">
 
 ![header](https://capsule-render.vercel.app/api?type=Soft&&&color=F4BBBB&height=200&section=header&text=HI😀%20I`m%20Heaon✌️&fontSize=30)
 
