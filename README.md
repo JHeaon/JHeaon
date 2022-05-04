@@ -5,9 +5,7 @@
 
 ### ✌️ Me ✌️ 
 
-Naver : [Blog](https://blog.naver.com/j3heawon)
-
-<br>
+Naver : [Blog](https://blog.naver.com/j3heawon)<br>
 
 ### 🛠️ Tech Stack 🛠️
 
@@ -24,31 +22,21 @@ Naver : [Blog](https://blog.naver.com/j3heawon)
 ### 📃 BOJ / Solved.ac 📃
 
 BOJ: [KR_Heaon](https://www.acmicpc.net/user/kR_heaon)<br>
-Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)
-
-
-<br>
+Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)<br>
 
 
 ### 📁 Study Note 📁
 
 [BOJ](https://github.com/JHeaon/Beakjoon) : BOJ_solution_code<br>
 [Backend](https://github.com/JHeaon/Backend_study) : Backend_Study<br>
-[Python](https://github.com/JHeaon/Python_programing) : Python_Programing_Study
-
-
-<br>
+[Python](https://github.com/JHeaon/Python_programing) : Python_Programing_Study<br>
 
 
 ### 📱 Mini_Project 📱
-[]() : None
-
-<br>
+[]() : None<br>
 
 ### 📱 Project 📱
-[]() : None
-
-<br>
+[]() : None<br>
 
 
 ### 🏆 Cards 🏆
@@ -64,10 +52,7 @@ Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jheaon)](https://github.com/Jheaon)
 
-### ✏️ Using Language ✏️
-
-
-<br>
+### ✏️ Using Language ✏️<br><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jheaon&layout=compact&theme=스타일)
 
