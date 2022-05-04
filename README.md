@@ -62,7 +62,7 @@ Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jheaon&layout=compact&theme=스타일)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jheaon&layout=compact&theme=스타일)
 
 
 
