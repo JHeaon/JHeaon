@@ -47,7 +47,7 @@ Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)<br>
 
   
 ### <p style="font-weight:bold"> 📱 Mini_Project 📱 </p>
-[]() : None<br>
+[Project_1](https://github.com/JHeaon/Mini_project) : To do list<br>
 
   
 <br>
