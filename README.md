@@ -5,7 +5,8 @@
 
 ### <p style="font-weight:bold"> ✌️ Hi I`m JHeaon ✌️ </p> 
 
-Naver : [Blog](https://blog.naver.com/j3heawon)
+[Blog](https://blog.naver.com/j3heawon)
+[Naver_Knowledge](https://kin.naver.com/profile/index.naver?u=eYO%2FFY%2B2WC5abpKVQY%2BMF0WM245Z4tWlMrTkfvBwvU0%3D)
   
   
  <br>
