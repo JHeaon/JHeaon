@@ -49,7 +49,9 @@ Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)<br>
 
   
 ### <p style="font-weight:bold"> 📱 Mini_Project 📱 </p>
-[Project_1](https://github.com/JHeaon/Mini_project) : To do list<br>
+[Mini_Project](https://github.com/JHeaon/Mini_project)<br>
+To do list<br>
+Img Crawling<br>
 
   
 <br>
