@@ -48,16 +48,9 @@ Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)<br>
 <br>
 
   
-### <p style="font-weight:bold"> 📱 Mini_Project 📱 </p>
-[Mini_Project](https://github.com/JHeaon/Mini_project) : Something_mini_projects
-
-
-  
-<br>
-
-  
 ### <p style="font-weight:bold"> 📱 Project 📱 </p>
-[]() : None<br>
+[Project](https://github.com/JHeaon/Mini_project) : Something_mini_projects
+
 
   
 <br>
