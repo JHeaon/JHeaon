@@ -40,16 +40,15 @@ Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)<br>
 ### <p style="font-weight:bold"> 📁 Study Note 📁 </p>
 
   
-[BOJ](https://github.com/JHeaon/Beakjoon) : BOJ_solution_code<br>
+[BOJ, Python](https://github.com/JHeaon/Beakjoon) : BOJ_solution_code, Python Study<br>
 [Backend](https://github.com/JHeaon/Backend_study) : Backend_Study<br>
-[Python](https://github.com/JHeaon/Python_programing) : Python_Programing_Study<br>
 
   
 <br>
 
   
 ### <p style="font-weight:bold"> 📱 Project 📱 </p>
-[Project](https://github.com/JHeaon/Mini_project) : Projects
+[Heaon_Project](https://github.com/JHeaon/Mini_project](https://github.com/JHeaon/Heaon_project) : Projects
 
 
   
