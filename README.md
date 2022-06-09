@@ -48,7 +48,7 @@ Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)<br>
 
   
 ### <p style="font-weight:bold"> 📱 Project 📱 </p>
-[Heaon_Project](https://github.com/JHeaon/Mini_project](https://github.com/JHeaon/Heaon_project) : Projects
+[Heaon_Project](https://github.com/JHeaon/Heaon_project) : Projects
 
 
   
