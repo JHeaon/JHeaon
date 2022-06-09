@@ -49,7 +49,7 @@ Solved.ac: [KR_Heaon](https://solved.ac/profile/kR_heaon)<br>
 
   
 ### <p style="font-weight:bold"> 📱 Project 📱 </p>
-[Project](https://github.com/JHeaon/Mini_project) : rojects
+[Project](https://github.com/JHeaon/Mini_project) : Projects
 
 
   
