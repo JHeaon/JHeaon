@@ -4,9 +4,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=37BF50&height=200&section=header&text=JHeaon`s%20Github&fontColor=f0f0f0&fontSize=70&fontAlign=65&fontAlignY=40&desc=JHeaon&descSize=35&descAlign=88&descAlignY=70)
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yellowtail&size=30&color=FFFFFF&lines=Hello+world%2C+I%60m+JHeaon)](https://git.io/typing-svg)
+
 ## <p style="font-weight:bold"> ✏️ Introduce </p> 
 
-### Hi I'm JHeaon, I'm studying to be backend_engineer, thank you 😀
+Hi I'm JHeaon, I'm studying to be backend_engineer <br>
+My favorite computur language is python <br>
+My hobbies are travelling and making macro program for python  <br>
+Thanks for reading , Thank you 😀
 
 <br>
   
@@ -34,15 +39,16 @@ Projects : [Heaon_Project](https://github.com/JHeaon/Heaon_project)
 
 ## <p style="font-weight:bold"> 🪧 Certification </p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JHeaon&theme=vue)
 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kr_heaon)](https://solved.ac/kr_heaon) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jheaon&layout=compact&theme=스타일)
-
-
-
-
-
-
-
-
+<a href="https://github.com/JHeaon/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=JHeaon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=FFFFFF&icon_color=37BF50&text_color=000000&title_color=37BF50" width=49.2% />
+</a>
+<a href="https://github.com/JHeaon/github-stats">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jheaon&layout=compact&theme=스타일&title_color=37BF50" width=41.2% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://activity-graph.herokuapp.com/graph?username=JHeaon&theme=react-dark&bg_color=FFFFFF&hide_border=true&line=37BF50&color=37BF50" width=98%/>
+</a>
 
