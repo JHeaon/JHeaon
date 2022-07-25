@@ -1,12 +1,12 @@
 <div style="font-weight:bold">
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFBA44&height=200&section=header&text=JHeaon`s%20Github&fontColor=f0f0f0&fontSize=70&fontAlign=65&fontAlignY=40&desc=JHeaon&descSize=35&descAlign=88&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=37BF50&height=200&section=header&text=JHeaon`s%20Github&fontColor=f0f0f0&fontSize=70&fontAlign=65&fontAlignY=40&desc=JHeaon&descSize=35&descAlign=88&descAlignY=70)
 
 
 ## <p style="font-weight:bold"> ✏️ Introduce </p> 
 
-Hi I'm JHeaon, I'm studying to be backend_engineer
+### Hi I'm JHeaon, I'm studying to be backend_engineer, thank you 😀
 
 <br>
   
