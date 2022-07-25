@@ -39,14 +39,17 @@ Projects : [Heaon_Project](https://github.com/JHeaon/Heaon_project)
 
 ## <p style="font-weight:bold"> 🪧 Certification </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JHeaon&theme=vue)
-
+![]()
 
 <a href="https://github.com/JHeaon/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=JHeaon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=FFFFFF&icon_color=37BF50&text_color=000000&title_color=37BF50" width=49.2% />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JHeaon&theme=vue" width=98.2% />
+</a>
+
+<a href="https://github.com/JHeaon/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=JHeaon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=FFFFFF&icon_color=37BF50&text_color=000000&title_color=37BF50" width=54% />
 </a>
 <a href="https://github.com/JHeaon/github-stats">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jheaon&layout=compact&theme=스타일&title_color=37BF50" width=41.2% />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jheaon&layout=compact&theme=스타일&title_color=37BF50" width=45.2% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=JHeaon&theme=react-dark&bg_color=FFFFFF&hide_border=true&line=37BF50&color=37BF50" width=98%/>
