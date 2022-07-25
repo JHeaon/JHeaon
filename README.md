@@ -6,7 +6,7 @@
 
 ## <p style="font-weight:bold"> ✏️ Introduce </p> 
 
-### Hi I'm JHeaon, I'm studying to be backend_engineer
+Hi I'm JHeaon, I'm studying to be backend_engineer
 
 <br>
   
