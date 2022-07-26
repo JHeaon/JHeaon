@@ -3,7 +3,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=37BF50&height=200&section=header&text=JHeaon`s%20Github&fontColor=f0f0f0&fontSize=70&fontAlign=65&fontAlignY=40&desc=JHeaon&descSize=35&descAlign=88&descAlignY=70)
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yellowtail&size=30&color=FFFFFF&lines=Hello+world%2C+I%60m+JHeaon)](https://git.io/typing-svg)
 
 ## <p style="font-weight:bold"> ✏️ Introduce </p> 
@@ -50,8 +49,5 @@ Projects : [Heaon_Project](https://github.com/JHeaon/Heaon_project)
 </a>
 <a href="https://github.com/JHeaon/github-stats">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jheaon&layout=compact&theme=스타일&title_color=37BF50" width=44.4% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=JHeaon&theme=react-dark&bg_color=FFFFFF&hide_border=true&line=37BF50&color=37BF50" width=97.8%/>
 </a>
 
