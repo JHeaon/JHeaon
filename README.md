@@ -52,6 +52,6 @@ Projects : [Heaon_Project](https://github.com/JHeaon/Heaon_project)
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jheaon&layout=compact&theme=스타일&title_color=37BF50" width=44.4% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=JHeaon&theme=react-dark&bg_color=FFFFFF&hide_border=true&line=37BF50&color=37BF50" width=98%/>
+<img src="https://activity-graph.herokuapp.com/graph?username=JHeaon&theme=react-dark&bg_color=FFFFFF&hide_border=true&line=37BF50&color=37BF50" width=97.8%/>
 </a>
 
