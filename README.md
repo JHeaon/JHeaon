@@ -7,44 +7,30 @@
 
 Today : <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=repositories&url=https%3A%2F%2Fgithub.com%2FJHeaon&count_bg=%2369AC36&title_bg=%23555555&icon=python.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 
+
 ## <p style="font-weight:bold"> 😀 Introduce </p> 
 
-<div stlye='float: left'>
 
-[![Proguard](./JHeaon.jpg)](http://www.thiengo.com.br/proguard-android)
-
-  <div style='float: right'>
-
-  ● Lang <br>
-
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
-
-  ● Backend <br>
-
-  <img src="https://img.shields.io/badge/Django-1572B?style=flat-square&logo=django&logoColor=white"><br>
-
-  ● Cowork <br>
-
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"> <br>
-
-  </div>
+<figure class="half">
+    <img src="./JHeaon.jpg">
+    <img src="./content.png">
+<figure>
 
 
-</div>
 
+● Lang <br>
 
-<div style= 'float:right'>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
 
-    Hi 🖐️ I'm JHeaon 
- 
-    I'm studying to be backend_engineer 
-    My favorite computur language is python 
-    My hobbies are travelling and making macro program for python  
-    
-    Thanks for reading , Thank you 😀 
+● Backend <br>
 
-<div>
+<img src="https://img.shields.io/badge/Django-1572B?style=flat-square&logo=django&logoColor=white"><br>
+
+● Cowork <br>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"> <br>
+
 
 
 
