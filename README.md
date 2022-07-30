@@ -9,27 +9,30 @@ Today : <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.
 
 ## <p style="font-weight:bold"> 😀 Introduce </p> 
 
+<div stlye='float: left'>
 
+[![Proguard](./JHeaon.jpg)](http://www.thiengo.com.br/proguard-android)
 
-<img aling='right' src = "JHeaon.jpg" width= 170px;>
+  <div style='float: right'>
 
+  ● Lang <br>
 
-<div style='margin-left : 180px;'>
-● Lang <br>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
+  ● Backend <br>
 
+  <img src="https://img.shields.io/badge/Django-1572B?style=flat-square&logo=django&logoColor=white"><br>
 
-● Backend <br>
+  ● Cowork <br>
 
-<img src="https://img.shields.io/badge/Django-1572B?style=flat-square&logo=django&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"> <br>
 
-● Cowork <br>
+  </div>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"> 
 
 </div>
+
 
 <div style= 'float:right'>
 
