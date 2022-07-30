@@ -16,7 +16,7 @@ Today : <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.
 <figure>
 
 
-● Lang & Backend & Cowork <br>
+### <p style="font-weight:bold"> ● Lang & Backend & Cowork </p>
  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
