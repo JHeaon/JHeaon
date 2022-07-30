@@ -9,11 +9,24 @@
 
 ## <p style="font-weight:bold"> ✏️ Introduce </p> 
 
-Hi I'm JHeaon, I'm studying to be backend_engineer <br>
-My favorite computur language is python <br>
-My hobbies are travelling and making macro program for python  <br>
-Thanks for reading , Thank you 😀
+<div>
+  <div style='float:left'>
+    <img src = "JHeaon.jpg" width= 188px;  hight = 200px;>
+  </div>
 
+    Hi 🖐️ I'm JHeaon 
+
+    I'm studying to be backend_engineer 
+    My favorite computur language is python 
+    My hobbies are travelling and making macro program for python  
+    
+    Thanks for reading , Thank you 😀 
+    
+    
+</div>
+
+
+<div >
 <br>
   
 ## <p style="font-weight:bold"> 🛠️ Tech Stack </p>
@@ -62,4 +75,4 @@ Projects : [Heaon_Project](https://github.com/JHeaon/Heaon_project)
 <a href="https://github.com/JHeaon/github-stats">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jheaon&layout=compact&theme=스타일&title_color=37BF50" width=44.4% />
 </a>
-
+</div>
