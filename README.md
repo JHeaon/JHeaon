@@ -18,17 +18,11 @@ Today : <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.
 
 
 
-● Lang <br>
-
+● Lang & Backend & Cowork <br>
+ 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
-
-● Backend <br>
-
-<img src="https://img.shields.io/badge/Django-1572B?style=flat-square&logo=django&logoColor=white"><br>
-
-● Cowork <br>
-
+<img src="https://img.shields.io/badge/Django-1572B?style=flat-square&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"> <br>
 
 
