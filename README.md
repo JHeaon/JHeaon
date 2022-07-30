@@ -3,33 +3,26 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=37BF50&height=200&section=header&text=JHeaon`s%20Github&fontColor=f0f0f0&fontSize=70&fontAlign=65&fontAlignY=40&desc=JHeaon&descSize=35&descAlign=88&descAlignY=70)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yellowtail&size=30&color=FFFFFF&lines=Hello+world%2C+I%60m+JHeaon)](https://git.io/typing-svg)<div style='float:right'>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yellowtail&size=30&color=FFFFFF&lines=Hello+world%2C+I%60m+JHeaon)](https://git.io/typing-svg)
+
 Today : <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=repositories&url=https%3A%2F%2Fgithub.com%2FJHeaon&count_bg=%2369AC36&title_bg=%23555555&icon=python.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
-</div>
-
-
 
 ## <p style="font-weight:bold"> 😀 Introduce </p> 
 
 
-<div style='float:left'>
+<span style='float:left'>
   <img src = "JHeaon.jpg" width= 188px;  hight = 200px;>
-</div>
+</span>
   
-
-    Hi 🖐️ I'm JHeaon 
+      Hi 🖐️ I'm JHeaon 
 
     I'm studying to be backend_engineer 
     My favorite computur language is python 
     My hobbies are travelling and making macro program for python  
     
     Thanks for reading , Thank you 😀 
-    
-  
-</div>
 
 
-<div >
 <br>
   
 ## <p style="font-weight:bold"> 🛠️ Tech Stack </p>
