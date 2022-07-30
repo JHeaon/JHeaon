@@ -26,7 +26,6 @@ Today : <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.
  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/Css-1572B6?style=flat&logo=Css3&logoColor=white">
 
 
