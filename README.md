@@ -10,9 +10,9 @@ Today : <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.
 ## <p style="font-weight:bold"> 😀 Introduce </p> 
 
 
-<div style='float:left'>
-  <img src = "JHeaon.jpg" width= 170px;>
-</div>
+
+<img aling='right' src = "JHeaon.jpg" width= 170px;>
+
 
 <div style='margin-left : 180px;'>
 ● Lang <br>
