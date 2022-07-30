@@ -10,12 +10,10 @@ Today : <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.
 
 ## <p style="font-weight:bold"> 😀 Introduce </p> 
 
-
 <figure class="half">
     <img src="./JHeaon.jpg">
     <img src="./content.png">
 <figure>
-
 
 
 ● Lang & Backend & Cowork <br>
