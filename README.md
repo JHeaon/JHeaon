@@ -12,7 +12,7 @@ Today : <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.
 
 <figure class="half">
     <img src="./JHeaon.jpg">
-    <img src="./text.png">
+    <img src="./Git_context.png">
 <figure>
 
 
