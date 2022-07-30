@@ -11,22 +11,10 @@ Today : <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.
 
 
 <span style='float:left'>
-  <img src = "JHeaon.jpg" width= 188px;  hight = 200px;>
+  <img src = "JHeaon.jpg" width= 170px;>
 </span>
-  
-      Hi 🖐️ I'm JHeaon 
 
-    I'm studying to be backend_engineer 
-    My favorite computur language is python 
-    My hobbies are travelling and making macro program for python  
-    
-    Thanks for reading , Thank you 😀 
-
-
-<br>
-  
-## <p style="font-weight:bold"> 🛠️ Tech Stack </p>
-
+<div style='margin-left : 180px;'>
 ● Lang <br>
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white">
@@ -41,7 +29,22 @@ Today : <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"> 
 
-  
+</div>
+
+<div style= 'float:right'>
+
+    Hi 🖐️ I'm JHeaon 
+ 
+    I'm studying to be backend_engineer 
+    My favorite computur language is python 
+    My hobbies are travelling and making macro program for python  
+    
+    Thanks for reading , Thank you 😀 
+
+<div>
+
+
+
 <br>
 
 ## <p style="font-weight:bold"> ✌️ Contact Me </p>
