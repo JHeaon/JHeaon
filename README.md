@@ -9,19 +9,6 @@ Today : <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.
 
 <br>
 
-
-## <p style="font-weight:bold"> 😀 Introduce </p> 
-
-
-    Hi 🖐️ I`m JHeaon
-    I`m studying to be Backend_enginer
-    My Favorite computer language is Python :)
-    My hobbies are travelling and making macro porgram for python 
-
-    Thanks for reading, See you 😀
-   
-    
-
 ### <p style="font-weight:bold"> ● Language</p>
  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white">
