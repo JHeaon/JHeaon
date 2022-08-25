@@ -11,27 +11,27 @@
 
 <br>
 
-### <p>Language</p>
+### <p>✏️ Language</p>
  
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=Css3&logoColor=white">
 
 
-### <p>Library</p>
+### <p>📖 Library</p>
  
 <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
 
 
-### <p>Backend</p>
+### <p>🛠️ Backend</p>
 
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/FastApi-009688?style=for-the-badge&logo=Fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=b">
 
-### <p>Tool</p>
+### <p>⚙️ Tool</p>
 
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> 
@@ -39,24 +39,7 @@
 <img src="https://img.shields.io/badge/Nothon-000000?style=for-the-badge&logo=notion&logoColor=white"> 
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"> <br>
 
-
-
-
-<br>
-
-
-
-
-<br>
-
-
-
-## <p style="font-weight:bold"> 🪧 Certification </p>
-
-<a href="https://github.com/JHeaon/github-readme-stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JHeaon&theme=vue" width=99.6% />
-</a>
-
+### <p> 🕐 Certification </p>
 <a href="https://github.com/JHeaon/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=JHeaon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=FFFFFF&icon_color=37BF50&text_color=000000&title_color=37BF50" width=53% />
 </a>
