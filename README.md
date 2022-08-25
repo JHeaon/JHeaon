@@ -5,11 +5,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yellowtail&size=30&color=FFFFFF&lines=Hello+world%2C+I%60m+JHeaon)](https://git.io/typing-svg)
 
+### <p>😀 Contact</p>
+
 <a href = "https://blog.naver.com/j3heawon"> <img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"> </a>
 <a href = "https://www.instagram.com/jheaon/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 <a href = "https://open.kakao.com/o/sSyb71ie/"> <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white"> </a>
-
-<br>
 
 ### <p>✏️ Language</p>
  
