@@ -1,1 +1,1 @@
-Studying Programming
+Today is just an ordinary day for me
