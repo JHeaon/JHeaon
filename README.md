@@ -44,5 +44,5 @@ eovy프로젝트
         <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JHeaon&layout=compact&theme=calm" width=40% />
 </a>
 <a href="https://github.com/devpla/github-stats-transparent">
-        <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JHeaon&show_icons=true&theme=calm" width=50% />
+        <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JHeaon&show_icons=true&theme=calm" width=52% />
 </a>
