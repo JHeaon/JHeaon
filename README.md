@@ -42,7 +42,7 @@ eovy프로젝트
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <a href="https://github.com/devpla/github-stats-transparent">
-        <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JHeaon&layout=compact&theme=calm" width=43% />
+        <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JHeaon&layout=compact&theme=calm" width=42% />
     </a>
-        <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JHeaon&show_icons=true&theme=calm" width=57% />
+        <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JHeaon&show_icons=true&theme=calm" width=56% />
 </a>
