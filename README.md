@@ -26,7 +26,7 @@
 - ✏️ 네이버 엑스퍼트 Python 개발자 활동<sub> (2022.6 ~ 23.08)</sub>
 - 🏢 크몽 Python 프로그램 개발 외주 활동<sub> (2022.10 ~ 23.09)</sub>
 
-eovy프로젝트
+대표 프로젝트
 
 - [Campus Note](https://github.com/JHeaon/Project_CompusNote) - 대구, 경북권 해커톤 
 - [Capston Design](https://github.com/JHeaon/Project_CapstonDesign) - 계명대학교 캡스톤디자인
