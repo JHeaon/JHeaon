@@ -41,8 +41,8 @@ eovy프로젝트
 깃허브 활동
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JHeaon&layout=compact&theme=calm" width=40% />
+        <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JHeaon&layout=compact&theme=calm" width=43% />
 </a>
 <a href="https://github.com/devpla/github-stats-transparent">
-        <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JHeaon&show_icons=true&theme=calm" width=52% />
+        <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JHeaon&show_icons=true&theme=calm" width=57% />
 </a>
