@@ -33,7 +33,7 @@
 - [Campus Note](https://github.com/JHeaon/Project_CompusNote) - 대구, 경북권 해커톤 
 - [Capston Design](https://github.com/JHeaon/Project_CapstonDesign) - 계명대학교 캡스톤디자인
 - [Ddonggangaji](https://github.com/ddonggangaji/backend) - 멋쟁이사자처럼 11기 해커톤
-
+- [The Long Dark](https://github.com/JHeaon/Project_TheLongDark) - 개인 프로젝트
 <br>
 
 기술스택
