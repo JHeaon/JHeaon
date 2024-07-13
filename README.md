@@ -17,7 +17,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,py,java,js,dart,html,css,tailwind,,qt,unity,react,django,docker,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,py,java,js,html,css,tailwind,qt,unity,react,django,docker,figma)](https://skillicons.dev)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
