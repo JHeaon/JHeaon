@@ -15,26 +15,7 @@
 
 <div>
 
-<br>
 
-<p align="center"> 정해원 입니다. 
-</p>
-
-<br><br>
-
-활동내역
-
-- 🦁 멋쟁이 사자처럼 10기 수료 및 11기 멘토 활동 <sub>(2022.04 ~ 23.08)</sub>
-- ✏️ 네이버 엑스퍼트 Python 개발자 활동<sub> (2022.6 ~ )</sub>
-- 🏢 크몽 Python 프로그램 개발 외주 활동<sub> (2022.10 ~ 23.09)</sub>
-
-대표 프로젝트
-
-- [Campus Note](https://github.com/JHeaon/Project_CompusNote) - 대구, 경북권 해커톤 
-- [Capston Design](https://github.com/JHeaon/Project_CapstonDesign) - 계명대학교 캡스톤디자인
-- [Ddonggangaji](https://github.com/ddonggangaji/backend) - 멋쟁이사자처럼 11기 해커톤
-- [The Long Dark](https://github.com/JHeaon/Project_TheLongDark) - 개인 프로젝트
-<br>
 
 기술스택
 
