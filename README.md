@@ -17,11 +17,8 @@
 
 
 
-기술스택
+[![My Skills](https://skillicons.dev/icons?i=c,cs,py,java,js,dart,html,css,tailwind,,qt,unity,react,django,docker,figma)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,py,java,js,dart,html,css,tailwind,flutter,qt,unity,react,django,fastapi,docker,figma)](https://skillicons.dev)
-
-깃허브 활동
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JHeaon&layout=compact&theme=calm" width=42% />
