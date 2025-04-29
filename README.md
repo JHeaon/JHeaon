@@ -20,9 +20,3 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cs,py,java,js,html,css,tailwind,qt,unity,react,django,docker,aws,figma)](https://skillicons.dev)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JHeaon&layout=compact&theme=calm" width=42% />
-</a>
-<a href="https://github.com/devpla/github-stats-transparent">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JHeaon&show_icons=true&theme=calm" width=55% />
-</a>
